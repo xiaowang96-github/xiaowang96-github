@@ -39,7 +39,7 @@ a.topic-link:link {
 }
 
 a.topic-link:hover {
-  color: var(--link-hover-color);
+  color: #0a0505;
 }
 
 .cell {
@@ -106,6 +106,7 @@ a.topic-link:hover {
 .topic_info {
   margin-top: 4px;
   display: inline-block;
+  color:#0a0505;
 }
 
 .topic_info a {
