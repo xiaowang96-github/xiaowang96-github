@@ -109,12 +109,12 @@ a.topic-link:hover {
 }
 
 .topic_info a {
-  color: var(--color-fade);
+  color: #0a0505;
   font-weight: normal;
 }
 
 .topic_info a:hover {
-  color: var(--link-hover-color);
+  color: #0a0505;
 }
 
 a.tab:active,
