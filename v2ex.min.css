@@ -19,6 +19,7 @@ a:link,a:visited,a:active {
 
 .site-nav .tools {
     flex: 1 1 200px;
+    text-align: inherit;
 }
 
 #Top {
