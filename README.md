@@ -14,7 +14,7 @@
 
 
 
- <p align="center"> Psily <font color=#FF8C00>一个已经在地球生活了25年</font> 的男人。 :eyes: </p>
+ <p align="center"> Psily <font color=#FF8C00>`一个已经在地球生活了25年`</font> 的男人。 :eyes: </p>
 
  <p align="center"> 喜欢LOL、喜欢唱歌  :musical_note: </p>
 
