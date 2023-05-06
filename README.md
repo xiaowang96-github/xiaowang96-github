@@ -14,9 +14,9 @@
 
 
 
- <p align="center"> Psily 一个已经在地球生活了25年的男人。 :eyes: </p>
+ <p align="center"> Psily 一个已经在地球生活了27年的男人。 :eyes: </p>
 
- <p align="center"> 喜欢LOL、喜欢唱歌  :musical_note: </p>
+ <p align="center"> 喜欢篮球、喜欢唱歌  :musical_note: </p>
 
  <p align="center"> 此生希望与最爱的人一起各处旅游！ :two_hearts: </p>
 
