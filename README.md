@@ -10,7 +10,7 @@
 
 ---
 
-  <p align="center">  <img src="https://github.com/psily/psily/blob/21cadd7ce417239fefee7b9d51a689f226c77407/few.jpg" alt="ss" width="200" height="200" align="center" />  </p>
+  <p align="center">  <img src="https://github.com/psily/psily/blob/21cadd7ce417239fefee7b9d51a689f226c77407/231420.png" alt="ss" width="200" height="200" align="center" />  </p>
 
 
 
