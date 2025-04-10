@@ -10,7 +10,7 @@
 
 ---
 
-  <p align="center">  <img src="https://github.com/xiaowang96-github/xiaowang96-github/blob/ef5fcf57134584e227dd1d561eb2e0dbb79e8134/me.jpg" alt="ss" width="200" height="200" align="center" style =" border-radius:10px;" />  </p>
+  <p align="center">  <img src="https://image.runze.space:16666/i/2025/04/10/092133.png" alt="ss" width="200" height="200" align="center" style =" border-radius:10px;" />  </p>
 
 
 
