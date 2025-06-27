@@ -10,7 +10,7 @@
 
 ---
 
-  <p align="center">  <img src="[[https://image.runze.space:16666/i/2025/04/10/093239.png](https://github.com/xiaowang96-github/xiaowang96-github/blob/7ed4c9c4d605e2954a08818fdd7e4aaceae1c264/me.jpg)](https://github.com/xiaowang96-github/xiaowang96-github/blob/7ed4c9c4d605e2954a08818fdd7e4aaceae1c264/me.jpg)" alt="ss" width="200" height="200" align="center" style =" border-radius:10px;" />  </p>
+  <p align="center">  <img src="https://github.com/xiaowang96-github/xiaowang96-github/blob/7ed4c9c4d605e2954a08818fdd7e4aaceae1c264/me.jpg" alt="ss" width="200" height="200" align="center" style =" border-radius:10px;" />  </p>
 
 
 
